@@ -1,7 +1,39 @@
 @charset 'UTF-8';
 
-body{ background-color:#80aaff; }
+body{background-color:#80aaff;}
 
-h1 { text-align:center; font-family:Century Gothic, sans-serif; }
-
-#center {}
+h1 { text-align:center; font-family:Century Gothic,
+	sans-serif; Color: Black; Border: 3px solid Gray;}
+a:link {
+	color: White;
+	background-color:#668cff;
+	text-decoration: none;
+	padding: 15px 25px;
+	text-align: center;
+	display: inline-block;
+}
+a:visited {
+	color: white;
+	background-color:#668cff;
+	text-decoration: none;
+	padding: 15px 25px;
+	text-align: center;
+	display: inline-block;
+}
+a:hover {
+	color: white;
+	background-color:#668cff;
+	text-decoration: none;
+	padding: 15px 25px;
+	text-align: center;
+	display: inline-block;
+}
+a:active {
+	color: white;
+	background-color:#668cff;
+	text-decoration: none;
+	padding: 15px 25px;
+	text-align: center;
+	display: inline-block;
+}
+#textbook {text-align: center;}
