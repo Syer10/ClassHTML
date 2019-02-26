@@ -36,4 +36,17 @@ a:active {
 	text-align: center;
 	display: inline-block;
 }
+#Cheat {border: 3px solid Gray; color: White;}
+#Textbook {border: 3px solid Gray; color: White;}
+
+.Row1{display:flex; flex-wrap: wrap; padding:5px;}
+#CCNA{float:left; width: 33.33%; padding: 5px}
+#ELEC{float:left; width: 33.33%; padding: 5px}
+#Linux{float:left; padding: 5px}
+
+.Row2{display:flex; flex-wrap: wrap; padding:5px;}
+#C{float:left; width: 33.33%; padding: 5px;}
+#Netacad{float:left; width: 33.33%; padding: 5px;}
+#Fleming{float:left; width: 25.33%; padding: 5px;}
+
 
